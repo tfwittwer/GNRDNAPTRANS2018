@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  GNRDNT2018.cpp
+     Creating library C:\progr\Inwinning\RDNAPTRANS2018\GNRDNT2018\Release\GNRDNT2018.lib and object C:\progr\Inwinning\RDNAPTRANS2018\GNRDNT2018\Release\GNRDNT2018.exp
+  Generating code
+  4 of 6 functions (66.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GNRDNT2018.vcxproj -> C:\progr\Inwinning\RDNAPTRANS2018\GNRDNT2018\Release\GNRDNT2018.dll
