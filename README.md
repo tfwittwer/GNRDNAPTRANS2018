@@ -1,5 +1,5 @@
 # GNRDNAPTRANS2018
-This is the [GeoNext](http://www.geonext.nl) implementation of version 1 of [RDNAPTRANS2018](https://www.nsgi.nl/geodetische-infrastructuur/producten/programma-rdnaptrans), the new coordinate transformation method between ETRS89 and the Dutch RD/NAP coordinate system.
+This is the [GeoNext](http://www.geonext.nl) implementation of variant 1 of [RDNAPTRANS2018](https://www.nsgi.nl/geodetische-infrastructuur/producten/programma-rdnaptrans), the new coordinate transformation method between ETRS89 and the Dutch RD/NAP coordinate system.
 
 The transformation is performed with the [PROJ](https://proj.org/) library.
 
