@@ -3,7 +3,7 @@ This is the [GeoNext](http://www.geonext.nl) implementation of variant 1 of [RDN
 
 The transformation is performed with the [PROJ](https://proj.org/) library.
 
-This implementation has (not) yet been validated and is provided without warranty.
+This implementation has not yet been validated and is provided without warranty.
 
 ## Contents
 - GNRDNT2018: C++ DLL using the PROJ API for transformation between ETRS, and a C++ testing program.
