@@ -24,7 +24,7 @@ Dim l As Double, p As Double, h As Double
 Dim x As Double, y As Double, z As Double
 
 Dim rdnt As GNRDNT2018DOTNET.GNRDNT2018_NET
-Set rdnet = New GNRDNT2018DOTNET.GNRDNT2018_NET
+Set rdnt = New GNRDNT2018DOTNET.GNRDNT2018_NET
 
 Call rdnet.Etrs2rdnap_net(l, p, h, x, y, z)
 Call rdnet.Rdnap2etrs_net(x, y, z, l, p, h)
